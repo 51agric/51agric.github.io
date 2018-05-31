@@ -1,10 +1,10 @@
 # Site settings
-title:       pixell中文版 
-email:       youremail@example.com 
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       金枝玉宴美食代 
+email:       277542747@qq.com 
+author:      Zhiping Luo
+description: ""
 baseurl:     ""
-url:         "agric.github.io"
+url:         "51agric.github.io"
 
 #Duoshuo short Name / 多说的shortname
 duoshuo: 
